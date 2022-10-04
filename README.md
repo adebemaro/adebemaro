@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @adebemaro
+- 👀 I work with the follow technologies...
+- Html, Css, Javascript, React.js, SCSS, Php, Frontend, NodeJs, Mysql, Laravel,  
+- 🌱 I’m currently learning ...
+- Flutter & Dart
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- whatsapp:+2348143759585
+
+<!---
+adebemaro/adebemaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
